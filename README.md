@@ -53,10 +53,13 @@
 
 
 ## Output:
+![Screenshot 2024-10-17 133003](https://github.com/user-attachments/assets/89d2be7f-267a-4997-8283-9a0b5fbf6b93)
+![Screenshot 2024-10-17 135038](https://github.com/user-attachments/assets/d1edea59-41ca-4f13-ad82-12de94269786)
+![Screenshot 2024-11-06 100025](https://github.com/user-attachments/assets/c270bb3f-7fdf-4592-a77c-fa0ee9cb44eb)
 
 
-### Name:
-### Register Number: 
+### Name: BALA SARAVANAN K
+### Register Number: 24900611 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
